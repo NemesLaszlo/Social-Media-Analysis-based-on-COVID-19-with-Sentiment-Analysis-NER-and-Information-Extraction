@@ -1,0 +1,2 @@
+# Social-Media-Analysis-based-on-COVID-19-with-Sentiment-Analysis-Named-Entity-Recognition-and-Inform
+This repository contains the social media data scraper and the notebooks of this analysis. Where we analise the Social Media posts - tweets with Sentiment Analysis then we analyse this results with Named Entity Recognition (NER) and Information Extraction methods to get a more accurate and detailed picture of this sentiment results.
